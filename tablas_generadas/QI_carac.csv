@@ -1,0 +1,8 @@
+indicador,Categoría,Meta
+igd+,Convergencia,Minimize
+r2,Convergencia,Maximize
+s-energy,Diversidad,Maximize
+eps+,Convergencia,Minimize
+igd,Convergencia,Minimize
+spd,Diversidad,Maximize
+hv,Convergencia,Maximize

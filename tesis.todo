@@ -1,0 +1,99 @@
+Análisis de código
+☐ El create_param_file debería de checar primero si ya existe el archivo de configuración para que no haya tantos read writes.
+☐ Para hacerlo OOP completo se podría poner una interfaz de get_QI y dos clases que le hereden siguiendo el strategy pattern. Las clases serían PCUI, Assessment y pymoo. Cada una tendría su método para calcular ya sea uno o varios indicadores. Aquí lo que habría que pensar es cuántas cosas se van a extender su funcionalidad y cuántas no.  
+
+
+Está bien excepto los casos donde el HV por ejemplo, es 0.
+Para tener más visibilidad del problema sólo habría que graficar las que se consideran extrañas
+TDD para ver si los datos son correctos. Ver outliers en ciertas direcciones. Sería mejor un dashboard.
+
+En un análisis de outliers para ver que todo está ocurriendo bien, se podrían poner visualizaciones de
+-  boxplot de las corridas de esa configuración 
+- la aproximación al frente de todas las corridas del mismo w0
+- Si es outlier con respecto a otros w0 entonces también poner todos los otros ws con sus medianas. 
+- Para encontrar un efecto de la inicialización de la semilla qué se puede hacer.   
+
+☐ Tener la reproducción de todas las pruebas estadísticas para ya luego solo alimentarle los datos. Primero sólo poner los indicadores que están en el artículo de PFI
+
+✔ Graficar problemas en 2D y 3D con plotly @done(23-09-18 09:20)
+☐ Poner una opción para graficar puntos de otras corridas y también etiquetarlos
+☐ Si no se encuentra el frente sólo poner que no se encontró y graficar los puntos. 
+☐ Encontrar una manera de diferenciar entre las combinaciones de parámetros que no dan buenas comparaciones de wilcoxon y los que es porque son iguales
+
+✔ Poner al menos un caso de algo que parezca raro y un boxplot que lo vea, sugerir el dashboard. @done(23-09-18 09:20)
+☐ Comparar con pymoo sabiendo los refsets
+✔ Graficar PCP y demás dimensiones también con plotly @done(23-09-18 09:21)
+☐ Hacer la tesis en una serie de Notebooks tal vez en Deep note para que se pueda prestar una computadora
+
+Porqué en el CRI-EMOA promovían el de diversidad cuando se estancaba la convergencia.  
+Podrían ser valores distintos para PFI y Assessment, pero deberían de sacar las mismas conclusiones
+☐ Estudiar bien las pruebas estadísticas
+La razón de aumentar el w0 con las dimensiones es que la diversidad termina rompiendo la convergencia. Se necesita aumentar la presión de selección así que IGD+ se utiliza. a
+La prueba estadística nos debería de decir algo como que si se usa más se obtiene un mayor desempeño. 
+Es de interés cuantaas veces se entró a qué parte del algoritmo
+Con el ELA se podrían obtener parámetros de decisión paso a paso si se tomaran en cuenta medidas de la población como indicadores y la convexidad, etc de los conjuntos de referencia. 
+    Estos conjuntos se tienen en el mundo porque ya se tiene una idea de la exploración? O se trata de encontrarlos a pesar de deceptive ways
+
+Cómo generar nuevos puntos de referencia
+
+
+TODO para Reunión con Guillermo
+☐ Poner un ejemplo de que las ejecuciones con $w_0=1$ y $w_0=0$ dan lo mismo
+✔ Ejecutar problemas de nuevo con nuevos objetivos @done(23-09-15 14:03)
+    Ya no se tiene que hacer esto porque los objetivos anteriores son los correctos de acuerdo a lo de guillermo
+✔ Ver qué problemas tienen más o menos dimensiones de lo que deberían (ZDT) y corregirlo @done(23-09-15 14:35) 
+    Todos tienen la dimensión correcta.
+
+
+
+Preguntas 
+
+Vale la pena investigar qué sucede en el espacio de variables? Para ver con cuántas dimensiones fue posible resolverlo?
+
+Porqué salen valores que dicen esto para 7 dimensiones, pero no para DTLZ2
+Data stored in ../../archivos_w/w_010/PCUIEMOA_DTLZ1_07D.igd+
+Weight vectors: rows 0, columns 0
+Error, param = NULL or utility_inverted is not defined in the configuration file, setting the default value 0
+Warning, param = NULL or utility_p is not defined in the configuration file, setting the default value tmp ../../archivos_w/w_010/PCUIEMOA_DTLZ1_07D_R01.pof, nrun 10
+
+ZDT es nan para igd a veces y aveces no
+
+
+Importa el número de pos related params
+
+☐ Imprimir los que tengan un HV bajo. Esto podría servir muy bastardo en un dashboard. 
+☐ Tener listo el dashboard para el jueves o el lunes de preferencia
+
+
+Conjunto de pruebas
+☐ Reproducibilidad
+☐ No hay columnas extra
+☐ No hay renglones extra
+
+☐ Hacer algun conjunto de pruebas para ver que el programa está bien. Tal vez estadística sobre las soluciones a ver si no hay unas muy malas. Que tengan muchos ceros, muchos nan, o que no se acerquen mucho al PF, que supongo esto es con indicadores
+
+Los ZDT no tienen hipervolumen porque no hay un conjunto de referencia para 2D
+
+Checar específicamente todos los refsets que no están o son diferentes a lo que se necesita
+
+Cómo se calculan outliers globales? Deben estar en el mismo rango todos los SPD, por ejemplo?
+
+HV no existe para ZDTs
+
+Yo estaba llamando los WFGs y así con refpoints hechos a mano. No hay problema con algun tipo de redondeo para números muy grandes? Habría que ver los detalles de Wilcoxon, etc. 
+
+☐ Colorear con conteos de borda de wilcoxon
+☐ Estudiar detalladamente todas las pruebas estadísticas
+
+Preguntar de cómo imprimir paso a paso y hacer una animación
+
+Preguntar de cómo sería optimizar los puntos de los indicadores en vez de los del frente de Pareto. 
+
+
+Mañana
+☐ Volver a pasar todos los pof a sus respectivos folders globales para que se pueda leer todo desde ahí o dejarlos en PCUI-Project
+☐ Mostrar un ejemplo de archivo de configuración para cada tipo de problemas para ver si todo está correcto.
+
+
+
+

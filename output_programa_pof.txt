@@ -1,0 +1,1125 @@
+WFG7 7 34 12 (0.001, 0.999)
+Ejecutando comando
+./pcuiemoa input/Param_07D-0.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.001000, 0.999000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 154   caso 2 = 46133
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 205   caso 2 = 46154
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 180   caso 2 = 46591
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 180   caso 2 = 46362
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 186   caso 2 = 45920
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 169   caso 2 = 46812
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 137   caso 2 = 47185
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 207   caso 2 = 46661
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 162   caso 2 = 47034
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 174   caso 2 = 46285
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG7 7 34 12 (0.1, 0.9)
+Ejecutando comando
+./pcuiemoa input/Param_07D-1.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.100000, 0.900000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 154   caso 2 = 46965
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 158   caso 2 = 46460
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 174   caso 2 = 45954
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 154   caso 2 = 46298
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 170   caso 2 = 46613
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 179   caso 2 = 46264
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 192   caso 2 = 46701
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 150   caso 2 = 46359
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 161   caso 2 = 46476
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 137   caso 2 = 47019
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG7 7 34 12 (0.2, 0.8)
+Ejecutando comando
+./pcuiemoa input/Param_07D-2.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.200000, 0.800000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 157   caso 2 = 47315
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 136   caso 2 = 47309
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 157   caso 2 = 47148
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 162   caso 2 = 47101
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 149   caso 2 = 47127
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 130   caso 2 = 46324
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 158   caso 2 = 47223
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 170   caso 2 = 46960
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 153   caso 2 = 47220
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 150   caso 2 = 47684
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG7 7 34 12 (0.30000000000000004, 0.7)
+Ejecutando comando
+./pcuiemoa input/Param_07D-3.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.300000, 0.700000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 140   caso 2 = 47629
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 162   caso 2 = 47297
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 168   caso 2 = 48038
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 141   caso 2 = 47846
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 137   caso 2 = 46998
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 177   caso 2 = 46750
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 176   caso 2 = 47856
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 144   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 46959
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 157   caso 2 = 47081
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 158   caso 2 = 47687
+WFG7 7 34 12 (0.4, 0.6)
+Ejecutando comando
+./pcuiemoa input/Param_07D-4.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.400000, 0.600000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 168   caso 2 = 47976
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 207   caso 2 = 47279
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 197   caso 2 = 47666
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 175   caso 2 = 47622
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 161   caso 2 = 48025
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 163   caso 2 = 48022
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 183   caso 2 = 47962
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 186   caso 2 = 47936
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 181   caso 2 = 47822
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 183   caso 2 = 48209
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG7 7 34 12 (0.5, 0.5)
+Ejecutando comando
+./pcuiemoa input/Param_07D-5.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.500000, 0.500000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 204   caso 2 = 47514
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 194   caso 2 = 48274
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 191   caso 2 = 47922
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 187   caso 2 = 48011
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 210   caso 2 = 47888
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 175   caso 2 = 47822
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 192   caso 2 = 47690
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 162   caso 2 = 47762
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 160   caso 2 = 48412
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 201   caso 2 = 48157
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG7 7 34 12 (0.6000000000000001, 0.3999999999999999)
+Ejecutando comando
+./pcuiemoa input/Param_07D-6.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.600000, 0.400000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 228   caso 2 = 48031
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 229   caso 2 = 48065
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 206   caso 2 = 47955
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 192   caso 2 = 47955
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 209   caso 2 = 47611
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 204   caso 2 = 48036
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 264   caso 2 = 47800
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 220   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 47846
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 203   caso 2 = 48228
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 230   caso 2 = 48316
+WFG7 7 34 12 (0.7000000000000001, 0.29999999999999993)
+Ejecutando comando
+./pcuiemoa input/Param_07D-7.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.700000, 0.300000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 238   caso 2 = 47999
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 239   caso 2 = 48126
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 218   caso 2 = 48108
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 267   caso 2 = 47835
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 251   caso 2 = 48270
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 261   caso 2 = 47676
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 235   caso 2 = 48226
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 252   caso 2 = 47869
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 236   caso 2 = 47820
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 238   caso 2 = 48148
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG7 7 34 12 (0.8, 0.19999999999999996)
+Ejecutando comando
+./pcuiemoa input/Param_07D-8.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.800000, 0.200000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 250   caso 2 = 48267
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 250   caso 2 = 48263
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 226   caso 2 = 48020
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 253   caso 2 = 47859
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 230   caso 2 = 48046
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 258   caso 2 = 47785
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 247   caso 2 = 48101
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 253   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 48171
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 242   caso 2 = 47930
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 228   caso 2 = 48361
+WFG7 7 34 12 (0.9, 0.09999999999999998)
+Ejecutando comando
+./pcuiemoa input/Param_07D-9.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.900000, 0.100000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 285   caso 2 = 48081
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 269   caso 2 = 48046
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 251   caso 2 = 47886
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 257   caso 2 = 48164
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 231   caso 2 = 48272
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 271   caso 2 = 47787
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 294   caso 2 = 48206
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 271   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 47859
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 256   caso 2 = 48122
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 265   caso 2 = 48098
+WFG7 7 34 12 (0.999, 0.001)
+Ejecutando comando
+./pcuiemoa input/Param_07D-10.cfg WFG7 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG7_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.999000, 0.001000)
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 277   caso 2 = 48302
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 275   caso 2 = 47773
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 304   caso 2 = 48101
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 279   caso 2 = 47717
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 313   caso 2 = 48240
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 290   caso 2 = 48007
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 293   caso 2 = 47796
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 334   caso 2 = 48307
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 274   caso 2 = 47950
+Random inicialization of population.
+mu 120, var 26, obj 7
+Codificacion real
+caso 1 = 301   caso 2 = 48310
+----------------------------------------------------------------------------------------------------
+Comando terminado
+
+WFG6 5 30 8 (0.001, 0.999)
+Ejecutando comando
+./pcuiemoa input/Param_05D-0.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.001000, 0.999000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 221   caso 2 = 39858
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 264   caso 2 = 39343
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 270   caso 2 = 39412
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 248   caso 2 = 39769
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 258   caso 2 = 39313
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 234   caso 2 = 39437
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 209   caso 2 = 39224
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 258   caso 2 = 40505
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 230   caso 2 = 39318
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 266   caso 2 = 39278
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG6 5 30 8 (0.1, 0.9)
+Ejecutando comando
+./pcuiemoa input/Param_05D-1.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.100000, 0.900000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 212   caso 2 = 40038
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 191   caso 2 = 40713
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 207   caso 2 = 41509
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 232   caso 2 = 40618
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 216   caso 2 = 40115
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 228   caso 2 = 40389
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 186   caso 2 = 41472
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 210   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 40628
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 195   caso 2 = 39642
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 188   caso 2 = 40372
+WFG6 5 30 8 (0.2, 0.8)
+Ejecutando comando
+./pcuiemoa input/Param_05D-2.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.200000, 0.800000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 197   caso 2 = 42047
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 197   caso 2 = 42355
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 211   caso 2 = 40679
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 154   caso 2 = 42441
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 204   caso 2 = 41545
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 168   caso 2 = 41602
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 205   caso 2 = 41166
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 184   caso 2 = 41189
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 170   caso 2 = 41482
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 165   caso 2 = 42036
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG6 5 30 8 (0.30000000000000004, 0.7)
+Ejecutando comando
+./pcuiemoa input/Param_05D-3.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.300000, 0.700000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 165   caso 2 = 42327
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 177   caso 2 = 42478
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 202   caso 2 = 41713
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 198   caso 2 = 42836
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 217   caso 2 = 42348
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 188   caso 2 = 42262
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 222   caso 2 = 41975
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 209   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 41635
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 184   caso 2 = 41989
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 196   caso 2 = 41411
+WFG6 5 30 8 (0.4, 0.6)
+Ejecutando comando
+./pcuiemoa input/Param_05D-4.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.400000, 0.600000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 205   caso 2 = 41294
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 236   caso 2 = 42496
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 234   caso 2 = 42478
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 206   caso 2 = 42093
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 235   caso 2 = 41437
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 190   caso 2 = 42808
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 203   caso 2 = 42790
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 220   caso 2 = 42196
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 203   caso 2 = 42406
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 227   caso 2 = 41961
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG6 5 30 8 (0.5, 0.5)
+Ejecutando comando
+./pcuiemoa input/Param_05D-5.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.500000, 0.500000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 269   caso 2 = 42231
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 241   caso 2 = 42541
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 202   caso 2 = 43512
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 226   caso 2 = 42197
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 273   caso 2 = 41557
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 261   caso 2 = 42840
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 226   caso 2 = 42570
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 276   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 41477
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 226   caso 2 = 43325
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 236   caso 2 = 41881
+WFG6 5 30 8 (0.6000000000000001, 0.3999999999999999)
+Ejecutando comando
+./pcuiemoa input/Param_05D-6.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.600000, 0.400000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 262   caso 2 = 42997
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 285   caso 2 = 43376
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 279   caso 2 = 42006
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 283   caso 2 = 43447
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 271   caso 2 = 43206
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 271   caso 2 = 42213
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 282   caso 2 = 41580
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 248   caso 2 = 42739
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 254   caso 2 = 42727
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 245   caso 2 = 42856
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG6 5 30 8 (0.7000000000000001, 0.29999999999999993)
+Ejecutando comando
+./pcuiemoa input/Param_05D-7.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.700000, 0.300000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 297   caso 2 = 43446
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 269   caso 2 = 42713
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 280   caso 2 = 43137
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 297   caso 2 = 43181
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 276   caso 2 = 43363
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 296   caso 2 = 43039
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 243   caso 2 = 44024
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 271   caso 2 = 42758
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 276   caso 2 = 43159
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 256   caso 2 = 42492
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG6 5 30 8 (0.8, 0.19999999999999996)
+Ejecutando comando
+./pcuiemoa input/Param_05D-8.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.800000, 0.200000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 295   caso 2 = 42559
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 297   caso 2 = 43013
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 286   caso 2 = 42853
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 297   caso 2 = 42996
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 283   caso 2 = 42327
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 316   caso 2 = 43073
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 309   caso 2 = 42755
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 282   caso 2 ----------------------------------------------------------------------------------------------------
+Comando terminado
+= 43025
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 317   caso 2 = 42613
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 325   caso 2 = 43370
+WFG6 5 30 8 (0.9, 0.09999999999999998)
+Ejecutando comando
+./pcuiemoa input/Param_05D-9.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.900000, 0.100000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 322   caso 2 = 43567
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 335   caso 2 = 42780
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 316   caso 2 = 43244
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 320   caso 2 = 43149
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 294   caso 2 = 43723
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 320   caso 2 = 43135
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 327   caso 2 = 42637
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 314   caso 2 = 42849
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 320   caso 2 = 43210
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 336   caso 2 = 42930
+----------------------------------------------------------------------------------------------------
+Comando terminado
+WFG6 5 30 8 (0.999, 0.001)
+Ejecutando comando
+./pcuiemoa input/Param_05D-10.cfg WFG6 10 augmented_chebyshev_pcui IGD+ ES
+----------------------------------------------------------------------------------------------------
+log tmp PCUI-EMOA_ATCH_IGD+_ES_WFG6_0.log
+PCUI-EMOA
+Combination utility function:
+Utility: augmented_chebyshev_pcui
+Using w_comb = (0.999000, 0.001000)
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 319   caso 2 = 43542
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 317   caso 2 = 43070
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 318   caso 2 = 43571
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 290   caso 2 = 42916
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 342   caso 2 = 43819
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 323   caso 2 = 42518
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 309   caso 2 = 43308
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 341   caso 2 = 42957
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 328   caso 2 = 43710
+Random inicialization of population.
+mu 120, var 26, obj 5
+Codificacion real
+caso 1 = 321   caso 2 = 43573
+----------------------------------------------------------------------------------------------------
+Comando terminado
+
+
