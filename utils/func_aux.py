@@ -398,9 +398,10 @@ def write_results(
     return
 
 
-def get_df_CD(problema, dimension, indicador, df_PI):
+def get_df_CD(problema, n_objetivos, indicador, hiperparam_ind_conv, df_PI):
+    '''Para obtener el df en la notación del programa para los CDs'''
     df_reducido = df_PI.query(
-        f'(problema=="{problema}") & (dimension=={dimension}) & (Indicador=="{indicador}")'
+        f'(problema=="{problema}") & (n_objetivos=={n_objetivos}) & (indicador=="{indicador}") & (hiperparam_ind_conv=="{hiperparam_ind_conv}")'
     )
 
     return (
@@ -412,7 +413,7 @@ def get_df_CD(problema, dimension, indicador, df_PI):
                 .astype(str)
                 .astype(str),
                 "dataset_name": df_reducido["run"].astype(str),
-                "accuracy": df_reducido["Valor_Indicador"],
+                "accuracy": df_reducido["valor_indicador"],
             }
         )
         .reset_index()

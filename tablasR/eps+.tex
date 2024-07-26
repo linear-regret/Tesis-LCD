@@ -1,0 +1,39 @@
+
+
+
+\documentclass{article}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+\usepackage{multicol}
+\usepackage{tablefootnote}
+\usepackage[table]{xcolor}% http://ctan.org/pkg/xcolor
+
+\newcommand{\specialcell}[2][c]{%
+\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+
+
+\begin{document}
+
+\begin{table}
+    \begin{tabular}{|c|c|c|c|}
+    \hline
+    {\bf MOP} & {\bf Dim.}& {\bf PCUIEMOA1} & {\bf PCUIEMOA2} \\
+    \hline
+    \multirow{1}{*}{DTLZ1}
+    & 2
+    & \cellcolor[gray]{0.8} \specialcell{2.336000e-03$^2$ \\ (1.790069e-04)}
+    & \cellcolor[gray]{0.5} \specialcell{2.245620e-03$^1$ \\ (1.997673e-04)}
+    \\ \cline{2-4}
+    \hline
+    \hline
+    \hline
+    \end{tabular}
+\end{table}
+
+    
+
+\end{document}

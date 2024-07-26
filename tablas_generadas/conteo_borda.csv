@@ -1,4 +1,4 @@
-dimension,problema,Indicador,0,1,2,3,4,5,6,7,8,9,10
+n_objetivos,problema,indicador,0,1,2,3,4,5,6,7,8,9,10
 2,DTLZ1,eps+,0,0,0,0,0,1,1,0,0,1,0
 2,DTLZ1,hv,0,0,0,1,0,3,1,0,0,0,0
 2,DTLZ1,igd,0,0,0,0,1,1,0,2,0,1,0

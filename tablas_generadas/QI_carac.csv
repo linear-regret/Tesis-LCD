@@ -1,7 +1,7 @@
 indicador,Categoría,Meta
 igd+,Convergencia,Minimize
 r2,Convergencia,Maximize
-s-energy,Diversidad,Maximize
+s-energy,Diversidad,Minimize
 eps+,Convergencia,Minimize
 igd,Convergencia,Minimize
 spd,Diversidad,Maximize
