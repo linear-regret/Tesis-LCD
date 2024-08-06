@@ -1,0 +1,597 @@
+\documentclass{article}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+\usepackage{multicol}
+\usepackage{tablefootnote}
+\usepackage[table]{xcolor}% http://ctan.org/pkg/xcolor
+\usepackage{geometry}
+\geometry{paperwidth=65cm, paperheight=75cm} % Initial document size
+
+
+\newcommand{\specialcell}[2][c]{%
+\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+
+
+\begin{document}
+
+\begin{table}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+{\bf MOP} & {\bf Dim.}& {\bf PFI-EMOA $w_0=0.001$} & {\bf PFI-EMOA $w_0=0.1$} & {\bf PFI-EMOA $w_0=0.2$} & {\bf PFI-EMOA $w_0=0.3$} & {\bf PFI-EMOA $w_0=0.4$} & {\bf PFI-EMOA $w_0=0.5$} & {\bf PFI-EMOA $w_0=0.6$} & {\bf PFI-EMOA $w_0=0.7$} & {\bf PFI-EMOA $w_0=0.8$} & {\bf PFI-EMOA $w_0=0.9$} & {\bf PFI-EMOA $w_0=0.999$} \\
+\hline
+\multirow{6}{*}{DTLZ1}
+& 2
+& \specialcell{8.737808e-01$^10$\# \\ (1.470825e-04)}
+& \specialcell{8.738328e-01$^4$ \\ (1.709683e-04)}
+& \cellcolor[gray]{0.8} \specialcell{8.738728e-01$^2$ \\ (8.048346e-05)}
+& \cellcolor[gray]{0.5} \specialcell{8.739046e-01$^1$ \\ (4.403966e-05)}
+& \specialcell{8.738206e-01$^7$\# \\ (1.203913e-04)}
+& \specialcell{8.738321e-01$^5$\# \\ (9.041788e-05)}
+& \specialcell{8.737694e-01$^11$ \\ (3.296767e-04)}
+& \specialcell{8.738080e-01$^8$ \\ (1.995420e-04)}
+& \specialcell{8.738556e-01$^3$\# \\ (4.615776e-05)}
+& \specialcell{8.737889e-01$^9$\# \\ (1.061001e-04)}
+& \specialcell{8.738220e-01$^6$\# \\ (1.588058e-04)}
+\\ \cline{2-13}
+& 3
+& \cellcolor[gray]{0.5} \specialcell{9.717902e-01$^1$ \\ (6.551849e-04)}
+& \specialcell{9.708103e-01$^10$\# \\ (1.126536e-03)}
+& \specialcell{9.715784e-01$^5$ \\ (1.072678e-03)}
+& \cellcolor[gray]{0.8} \specialcell{9.716879e-01$^2$ \\ (9.827487e-04)}
+& \specialcell{9.710535e-01$^8$ \\ (1.499363e-03)}
+& \specialcell{9.716051e-01$^4$ \\ (9.164025e-04)}
+& \specialcell{9.713180e-01$^6$ \\ (1.349780e-03)}
+& \specialcell{9.702850e-01$^11$\# \\ (1.564796e-03)}
+& \specialcell{9.708278e-01$^9$\# \\ (1.481288e-03)}
+& \specialcell{9.716094e-01$^3$ \\ (1.171424e-03)}
+& \specialcell{9.711858e-01$^7$ \\ (1.523745e-03)}
+\\ \cline{2-13}
+& 4
+& \cellcolor[gray]{0.5} \specialcell{9.937112e-01$^1$ \\ (1.937864e-04)}
+& \specialcell{9.935151e-01$^7$ \\ (2.973890e-04)}
+& \specialcell{9.935531e-01$^3$ \\ (4.096354e-04)}
+& \specialcell{9.935340e-01$^4$\# \\ (1.499965e-04)}
+& \specialcell{9.927200e-01$^11$\# \\ (2.213575e-03)}
+& \specialcell{9.934045e-01$^9$\# \\ (3.030347e-04)}
+& \specialcell{9.935259e-01$^5$ \\ (4.023366e-04)}
+& \specialcell{9.929222e-01$^10$ \\ (1.859830e-03)}
+& \cellcolor[gray]{0.8} \specialcell{9.935971e-01$^2$ \\ (3.045949e-04)}
+& \specialcell{9.935171e-01$^6$ \\ (3.136141e-04)}
+& \specialcell{9.934766e-01$^8$ \\ (3.526800e-04)}
+\\ \cline{2-13}
+& 5
+& \specialcell{9.983222e-01$^5$ \\ (1.374946e-04)}
+& \specialcell{9.983109e-01$^7$ \\ (1.224543e-04)}
+& \specialcell{9.983205e-01$^6$ \\ (8.718021e-05)}
+& \specialcell{9.983396e-01$^3$ \\ (9.493576e-05)}
+& \specialcell{9.981434e-01$^10$ \\ (6.650158e-04)}
+& \specialcell{9.978176e-01$^11$ \\ (1.095950e-03)}
+& \specialcell{9.981612e-01$^9$ \\ (6.123177e-04)}
+& \specialcell{9.982932e-01$^8$ \\ (1.129875e-04)}
+& \cellcolor[gray]{0.5} \specialcell{9.983439e-01$^1$ \\ (1.098489e-04)}
+& \specialcell{9.983310e-01$^4$ \\ (1.408133e-04)}
+& \cellcolor[gray]{0.8} \specialcell{9.983408e-01$^2$ \\ (8.609604e-05)}
+\\ \cline{2-13}
+& 6
+& \specialcell{9.993770e-01$^4$ \\ (2.837446e-04)}
+& \specialcell{9.993353e-01$^6$\# \\ (2.712054e-04)}
+& \specialcell{9.992076e-01$^10$\# \\ (3.770874e-04)}
+& \specialcell{9.992146e-01$^9$\# \\ (5.752044e-04)}
+& \specialcell{9.990735e-01$^11$\# \\ (8.007077e-04)}
+& \specialcell{9.993596e-01$^5$ \\ (3.918811e-04)}
+& \specialcell{9.993344e-01$^7$\# \\ (3.848402e-04)}
+& \specialcell{9.992629e-01$^8$\# \\ (4.203450e-04)}
+& \cellcolor[gray]{0.5} \specialcell{9.994933e-01$^1$ \\ (3.081609e-05)}
+& \specialcell{9.994082e-01$^3$ \\ (2.382730e-04)}
+& \cellcolor[gray]{0.8} \specialcell{9.994245e-01$^2$ \\ (2.432114e-04)}
+\\ \cline{2-13}
+& 7
+& \specialcell{9.977479e-01$^11$ \\ (5.799219e-03)}
+& \specialcell{9.996130e-01$^3$ \\ (2.903134e-04)}
+& \cellcolor[gray]{0.8} \specialcell{9.996365e-01$^2$ \\ (2.888647e-04)}
+& \specialcell{9.995659e-01$^9$ \\ (2.838274e-04)}
+& \specialcell{9.995739e-01$^8$ \\ (2.954667e-04)}
+& \specialcell{9.995743e-01$^7$ \\ (2.961290e-04)}
+& \specialcell{9.995824e-01$^5$ \\ (3.025132e-04)}
+& \specialcell{9.995788e-01$^6$ \\ (3.051216e-04)}
+& \specialcell{9.995531e-01$^10$ \\ (2.894282e-04)}
+& \specialcell{9.995856e-01$^4$ \\ (2.993496e-04)}
+& \cellcolor[gray]{0.5} \specialcell{9.996810e-01$^1$ \\ (2.218804e-04)}
+\\ \cline{2-13}
+\hline
+\hline
+\multirow{6}{*}{DTLZ2}
+& 2
+& \specialcell{3.210872e+00$^10$\# \\ (9.189366e-07)}
+& \cellcolor[gray]{0.8} \specialcell{3.210872e+00$^2$ \\ (5.163978e-07)}
+& \specialcell{3.210872e+00$^11$\# \\ (4.216370e-07)}
+& \specialcell{3.210872e+00$^6$\# \\ (0.000000e+00)}
+& \specialcell{3.210872e+00$^3$ \\ (7.888106e-07)}
+& \specialcell{3.210872e+00$^9$\# \\ (5.676462e-07)}
+& \cellcolor[gray]{0.5} \specialcell{3.210872e+00$^1$ \\ (5.270463e-07)}
+& \specialcell{3.210872e+00$^7$\# \\ (6.666667e-07)}
+& \specialcell{3.210872e+00$^8$ \\ (9.428090e-07)}
+& \specialcell{3.210872e+00$^4$\# \\ (3.162278e-07)}
+& \specialcell{3.210872e+00$^5$ \\ (5.676462e-07)}
+\\ \cline{2-13}
+& 3
+& \cellcolor[gray]{0.8} \specialcell{7.406309e+00$^2$ \\ (6.276514e-03)}
+& \specialcell{7.405524e+00$^4$ \\ (7.134670e-03)}
+& \specialcell{7.400816e+00$^8$ \\ (8.845379e-03)}
+& \cellcolor[gray]{0.5} \specialcell{7.406349e+00$^1$ \\ (5.352369e-03)}
+& \specialcell{7.400082e+00$^9$ \\ (9.449900e-03)}
+& \specialcell{7.402627e+00$^6$ \\ (6.797599e-03)}
+& \specialcell{7.405629e+00$^3$ \\ (5.688029e-03)}
+& \specialcell{7.402456e+00$^7$ \\ (9.787264e-03)}
+& \specialcell{7.403416e+00$^5$ \\ (8.433297e-03)}
+& \specialcell{7.397812e+00$^11$ \\ (1.344276e-02)}
+& \specialcell{7.397915e+00$^10$\# \\ (9.657099e-03)}
+\\ \cline{2-13}
+& 4
+& \specialcell{1.551146e+01$^11$\# \\ (2.519418e-02)}
+& \specialcell{1.552332e+01$^7$ \\ (1.294623e-02)}
+& \specialcell{1.552711e+01$^3$ \\ (8.887849e-03)}
+& \cellcolor[gray]{0.8} \specialcell{1.552711e+01$^2$ \\ (1.662214e-02)}
+& \specialcell{1.552185e+01$^8$ \\ (1.814111e-02)}
+& \specialcell{1.552376e+01$^6$ \\ (1.211195e-02)}
+& \specialcell{1.552135e+01$^9$ \\ (1.851914e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.553096e+01$^1$ \\ (1.224271e-02)}
+& \specialcell{1.552411e+01$^5$ \\ (1.741199e-02)}
+& \specialcell{1.552606e+01$^4$ \\ (1.404445e-02)}
+& \specialcell{1.551857e+01$^10$ \\ (2.021541e-02)}
+\\ \cline{2-13}
+& 5
+& \cellcolor[gray]{0.8} \specialcell{3.163125e+01$^2$ \\ (1.787083e-02)}
+& \specialcell{3.162162e+01$^6$\# \\ (1.778093e-02)}
+& \specialcell{3.161948e+01$^9$\# \\ (1.576845e-02)}
+& \specialcell{3.162516e+01$^4$ \\ (1.320673e-02)}
+& \specialcell{3.161974e+01$^8$ \\ (2.534745e-02)}
+& \cellcolor[gray]{0.5} \specialcell{3.163366e+01$^1$ \\ (1.386803e-02)}
+& \specialcell{3.162722e+01$^3$ \\ (2.209114e-02)}
+& \specialcell{3.161701e+01$^10$ \\ (2.014658e-02)}
+& \specialcell{3.161978e+01$^7$\# \\ (1.566467e-02)}
+& \specialcell{3.162427e+01$^5$ \\ (1.160760e-02)}
+& \specialcell{3.160827e+01$^11$\# \\ (2.272741e-02)}
+\\ \cline{2-13}
+& 6
+& \specialcell{6.367127e+01$^11$\# \\ (3.534332e-02)}
+& \specialcell{6.369283e+01$^7$ \\ (2.643062e-02)}
+& \cellcolor[gray]{0.5} \specialcell{6.370275e+01$^1$ \\ (1.705328e-02)}
+& \specialcell{6.370146e+01$^3$ \\ (1.729596e-02)}
+& \cellcolor[gray]{0.8} \specialcell{6.370272e+01$^2$ \\ (1.659843e-02)}
+& \specialcell{6.368400e+01$^9$\# \\ (1.804012e-02)}
+& \specialcell{6.368993e+01$^8$ \\ (1.987819e-02)}
+& \specialcell{6.369338e+01$^6$ \\ (1.768197e-02)}
+& \specialcell{6.369586e+01$^4$ \\ (1.822571e-02)}
+& \specialcell{6.369490e+01$^5$ \\ (1.425660e-02)}
+& \specialcell{6.368079e+01$^10$ \\ (3.526146e-02)}
+\\ \cline{2-13}
+& 7
+& \specialcell{1.277296e+02$^8$ \\ (6.810946e-02)}
+& \specialcell{1.277464e+02$^6$ \\ (2.604074e-02)}
+& \specialcell{1.277474e+02$^5$ \\ (2.830445e-02)}
+& \specialcell{1.277294e+02$^9$\# \\ (2.800712e-02)}
+& \specialcell{1.277278e+02$^10$\# \\ (2.967409e-02)}
+& \specialcell{1.277490e+02$^4$ \\ (2.656568e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.277610e+02$^1$ \\ (1.601043e-02)}
+& \cellcolor[gray]{0.8} \specialcell{1.277522e+02$^2$ \\ (2.628628e-02)}
+& \specialcell{1.277497e+02$^3$ \\ (2.800971e-02)}
+& \specialcell{1.277268e+02$^11$\# \\ (3.037109e-02)}
+& \specialcell{1.277438e+02$^7$ \\ (3.008537e-02)}
+\\ \cline{2-13}
+\hline
+\hline
+\multirow{6}{*}{DTLZ3}
+& 2
+& \cellcolor[gray]{0.8} \specialcell{3.204125e+00$^2$ \\ (3.448869e-03)}
+& \specialcell{2.962628e+00$^11$\# \\ (7.525905e-01)}
+& \specialcell{3.198401e+00$^9$ \\ (1.181591e-02)}
+& \specialcell{3.200836e+00$^5$\# \\ (4.829000e-03)}
+& \specialcell{3.199576e+00$^8$ \\ (7.207856e-03)}
+& \specialcell{3.201786e+00$^4$ \\ (6.276654e-03)}
+& \specialcell{3.198263e+00$^10$ \\ (9.716464e-03)}
+& \specialcell{3.200767e+00$^6$ \\ (7.383986e-03)}
+& \cellcolor[gray]{0.5} \specialcell{3.204282e+00$^1$ \\ (2.828339e-03)}
+& \specialcell{3.200684e+00$^7$ \\ (7.602490e-03)}
+& \specialcell{3.203677e+00$^3$ \\ (2.946558e-03)}
+\\ \cline{2-13}
+& 3
+& \specialcell{7.401769e+00$^4$ \\ (8.531816e-03)}
+& \specialcell{7.392234e+00$^11$\# \\ (1.459723e-02)}
+& \specialcell{7.398723e+00$^8$\# \\ (1.147592e-02)}
+& \specialcell{7.400296e+00$^6$ \\ (1.494364e-02)}
+& \specialcell{7.402487e+00$^3$ \\ (1.046800e-02)}
+& \specialcell{7.398311e+00$^10$ \\ (1.250511e-02)}
+& \cellcolor[gray]{0.5} \specialcell{7.407028e+00$^1$ \\ (5.702250e-03)}
+& \specialcell{7.401712e+00$^5$ \\ (7.870638e-03)}
+& \cellcolor[gray]{0.8} \specialcell{7.405045e+00$^2$ \\ (6.884363e-03)}
+& \specialcell{7.399056e+00$^7$ \\ (1.383905e-02)}
+& \specialcell{7.398500e+00$^9$\# \\ (9.690486e-03)}
+\\ \cline{2-13}
+& 4
+& \cellcolor[gray]{0.8} \specialcell{1.553633e+01$^2$ \\ (6.930556e-03)}
+& \specialcell{1.552991e+01$^6$ \\ (2.659038e-02)}
+& \specialcell{1.552940e+01$^7$ \\ (1.671724e-02)}
+& \specialcell{1.549571e+01$^11$ \\ (9.712553e-02)}
+& \specialcell{1.553172e+01$^4$ \\ (2.172354e-02)}
+& \specialcell{1.552468e+01$^9$ \\ (2.723058e-02)}
+& \specialcell{1.553355e+01$^3$ \\ (1.581366e-02)}
+& \specialcell{1.552517e+01$^8$ \\ (2.144218e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.553907e+01$^1$ \\ (1.204328e-02)}
+& \specialcell{1.553128e+01$^5$ \\ (1.842291e-02)}
+& \specialcell{1.552163e+01$^10$ \\ (3.352925e-02)}
+\\ \cline{2-13}
+& 5
+& \specialcell{3.160475e+01$^7$ \\ (2.560673e-02)}
+& \specialcell{3.160780e+01$^5$ \\ (2.954524e-02)}
+& \specialcell{3.160513e+01$^6$ \\ (3.238668e-02)}
+& \specialcell{3.157073e+01$^9$\# \\ (7.373239e-02)}
+& \specialcell{3.161079e+01$^3$ \\ (3.485215e-02)}
+& \cellcolor[gray]{0.8} \specialcell{3.161488e+01$^2$ \\ (1.585092e-02)}
+& \specialcell{3.160802e+01$^4$ \\ (3.142212e-02)}
+& \specialcell{3.045857e+01$^11$ \\ (3.622175e+00)}
+& \cellcolor[gray]{0.5} \specialcell{3.161741e+01$^1$ \\ (1.644223e-02)}
+& \specialcell{3.158945e+01$^8$ \\ (5.278293e-02)}
+& \specialcell{3.156854e+01$^10$ \\ (6.623495e-02)}
+\\ \cline{2-13}
+& 6
+& \cellcolor[gray]{0.8} \specialcell{6.177109e+01$^2$ \\ (5.988983e+00)}
+& \specialcell{6.161200e+01$^3$ \\ (6.188548e+00)}
+& \specialcell{5.929023e+01$^6$\# \\ (1.315771e+01)}
+& \specialcell{5.708429e+01$^11$\# \\ (1.994033e+01)}
+& \cellcolor[gray]{0.5} \specialcell{6.361391e+01$^1$ \\ (6.051470e-02)}
+& \specialcell{6.010896e+01$^5$ \\ (1.102843e+01)}
+& \specialcell{5.718891e+01$^9$ \\ (1.050497e+01)}
+& \specialcell{5.756666e+01$^8$\# \\ (1.011497e+01)}
+& \specialcell{5.716739e+01$^10$ \\ (2.002090e+01)}
+& \specialcell{5.780382e+01$^7$\# \\ (1.224710e+01)}
+& \specialcell{6.069897e+01$^4$ \\ (8.973666e+00)}
+\\ \cline{2-13}
+& 7
+& \specialcell{9.189778e+01$^4$ \\ (5.611803e+01)}
+& \specialcell{6.935129e+01$^10$ \\ (6.258046e+01)}
+& \specialcell{8.147760e+01$^7$ \\ (6.078586e+01)}
+& \specialcell{8.400048e+01$^6$ \\ (5.695116e+01)}
+& \cellcolor[gray]{0.5} \specialcell{1.013421e+02$^1$ \\ (4.021302e+01)}
+& \specialcell{9.487738e+01$^3$ \\ (4.972076e+01)}
+& \specialcell{7.927678e+01$^8$ \\ (5.457887e+01)}
+& \specialcell{7.734453e+01$^9$ \\ (6.403357e+01)}
+& \cellcolor[gray]{0.8} \specialcell{9.640041e+01$^2$ \\ (5.338981e+01)}
+& \specialcell{8.993654e+01$^5$ \\ (5.683477e+01)}
+& \specialcell{5.424077e+01$^11$ \\ (6.321156e+01)}
+\\ \cline{2-13}
+\hline
+\hline
+\multirow{6}{*}{DTLZ4}
+& 2
+& \specialcell{2.847532e+00$^7$ \\ (5.848529e-01)}
+& \specialcell{2.847536e+00$^5$ \\ (5.848555e-01)}
+& \specialcell{2.847535e+00$^6$ \\ (5.848549e-01)}
+& \specialcell{2.847504e+00$^11$ \\ (5.848334e-01)}
+& \specialcell{2.847516e+00$^10$ \\ (5.848418e-01)}
+& \cellcolor[gray]{0.5} \specialcell{2.847579e+00$^1$ \\ (5.848847e-01)}
+& \cellcolor[gray]{0.8} \specialcell{2.847559e+00$^2$ \\ (5.848715e-01)}
+& \specialcell{2.847536e+00$^4$ \\ (5.848558e-01)}
+& \specialcell{2.847529e+00$^8$ \\ (5.848505e-01)}
+& \specialcell{2.847528e+00$^9$ \\ (5.848502e-01)}
+& \specialcell{2.847541e+00$^3$ \\ (5.848589e-01)}
+\\ \cline{2-13}
+& 3
+& \cellcolor[gray]{0.8} \specialcell{6.669547e+00$^2$ \\ (1.058453e+00)}
+& \specialcell{6.649905e+00$^9$ \\ (1.063421e+00)}
+& \specialcell{6.660899e+00$^5$ \\ (1.062216e+00)}
+& \specialcell{6.648603e+00$^11$ \\ (1.066495e+00)}
+& \specialcell{6.648798e+00$^10$ \\ (1.066655e+00)}
+& \specialcell{6.650266e+00$^8$ \\ (1.067809e+00)}
+& \specialcell{6.659986e+00$^6$ \\ (1.061482e+00)}
+& \specialcell{6.655286e+00$^7$ \\ (1.063214e+00)}
+& \specialcell{6.661483e+00$^4$ \\ (1.063709e+00)}
+& \specialcell{6.662111e+00$^3$ \\ (1.063115e+00)}
+& \cellcolor[gray]{0.5} \specialcell{6.670402e+00$^1$ \\ (1.059127e+00)}
+\\ \cline{2-13}
+& 4
+& \specialcell{1.472637e+01$^6$ \\ (1.183941e+00)}
+& \cellcolor[gray]{0.5} \specialcell{1.473334e+01$^1$ \\ (1.189186e+00)}
+& \specialcell{1.472827e+01$^5$ \\ (1.185388e+00)}
+& \specialcell{1.472577e+01$^7$ \\ (1.183652e+00)}
+& \cellcolor[gray]{0.8} \specialcell{1.473311e+01$^2$ \\ (1.188999e+00)}
+& \specialcell{1.473149e+01$^3$ \\ (1.187778e+00)}
+& \specialcell{1.465170e+01$^11$ \\ (1.149669e+00)}
+& \specialcell{1.465623e+01$^10$ \\ (1.153392e+00)}
+& \specialcell{1.472056e+01$^9$ \\ (1.179613e+00)}
+& \specialcell{1.472910e+01$^4$ \\ (1.185989e+00)}
+& \specialcell{1.472426e+01$^8$ \\ (1.181626e+00)}
+\\ \cline{2-13}
+& 5
+& \specialcell{3.111339e+01$^11$ \\ (6.122929e-01)}
+& \specialcell{3.112802e+01$^5$ \\ (6.095109e-01)}
+& \specialcell{3.111597e+01$^9$ \\ (6.132550e-01)}
+& \specialcell{3.111597e+01$^10$ \\ (6.132550e-01)}
+& \specialcell{3.111689e+01$^8$ \\ (6.141347e-01)}
+& \cellcolor[gray]{0.5} \specialcell{3.113289e+01$^1$ \\ (6.097994e-01)}
+& \specialcell{3.112946e+01$^4$ \\ (6.095581e-01)}
+& \cellcolor[gray]{0.8} \specialcell{3.113215e+01$^2$ \\ (6.106535e-01)}
+& \specialcell{3.113025e+01$^3$ \\ (6.088336e-01)}
+& \specialcell{3.112669e+01$^7$ \\ (6.055622e-01)}
+& \specialcell{3.112673e+01$^6$ \\ (6.060423e-01)}
+\\ \cline{2-13}
+& 6
+& \specialcell{6.253795e+01$^5$ \\ (1.295199e+00)}
+& \specialcell{6.254541e+01$^3$ \\ (1.302796e+00)}
+& \specialcell{6.254541e+01$^4$ \\ (1.302796e+00)}
+& \cellcolor[gray]{0.5} \specialcell{6.254576e+01$^1$ \\ (1.303153e+00)}
+& \cellcolor[gray]{0.8} \specialcell{6.254576e+01$^2$ \\ (1.303153e+00)}
+& \specialcell{6.253786e+01$^6$ \\ (1.295116e+00)}
+& \specialcell{6.253666e+01$^10$ \\ (1.293931e+00)}
+& \specialcell{6.253666e+01$^11$ \\ (1.293931e+00)}
+& \specialcell{6.253687e+01$^8$ \\ (1.294133e+00)}
+& \specialcell{6.253687e+01$^9$ \\ (1.294133e+00)}
+& \specialcell{6.253751e+01$^7$ \\ (1.294764e+00)}
+\\ \cline{2-13}
+& 7
+& \specialcell{1.245510e+02$^4$ \\ (3.595126e+00)}
+& \cellcolor[gray]{0.5} \specialcell{1.245521e+02$^1$ \\ (3.596251e+00)}
+& \cellcolor[gray]{0.8} \specialcell{1.245521e+02$^2$ \\ (3.596251e+00)}
+& \specialcell{1.245521e+02$^3$ \\ (3.596251e+00)}
+& \specialcell{1.245494e+02$^10$ \\ (3.593630e+00)}
+& \specialcell{1.245494e+02$^11$ \\ (3.593630e+00)}
+& \specialcell{1.245499e+02$^5$ \\ (3.594141e+00)}
+& \specialcell{1.245499e+02$^6$ \\ (3.594141e+00)}
+& \specialcell{1.245499e+02$^7$ \\ (3.594141e+00)}
+& \specialcell{1.245499e+02$^8$ \\ (3.594141e+00)}
+& \specialcell{1.245499e+02$^9$ \\ (3.594141e+00)}
+\\ \cline{2-13}
+\hline
+\hline
+\multirow{6}{*}{DTLZ5}
+& 2
+& \specialcell{3.210872e+00$^10$\# \\ (9.189366e-07)}
+& \cellcolor[gray]{0.8} \specialcell{3.210872e+00$^2$ \\ (5.163978e-07)}
+& \specialcell{3.210872e+00$^11$\# \\ (4.216370e-07)}
+& \specialcell{3.210872e+00$^6$\# \\ (0.000000e+00)}
+& \specialcell{3.210872e+00$^3$ \\ (7.888106e-07)}
+& \specialcell{3.210872e+00$^9$\# \\ (5.676462e-07)}
+& \cellcolor[gray]{0.5} \specialcell{3.210872e+00$^1$ \\ (5.270463e-07)}
+& \specialcell{3.210872e+00$^7$\# \\ (6.666667e-07)}
+& \specialcell{3.210872e+00$^8$ \\ (9.428090e-07)}
+& \specialcell{3.210872e+00$^4$\# \\ (3.162278e-07)}
+& \specialcell{3.210872e+00$^5$ \\ (5.676462e-07)}
+\\ \cline{2-13}
+& 3
+& \specialcell{6.090806e+00$^11$ \\ (1.094499e-02)}
+& \specialcell{6.094234e+00$^7$ \\ (1.300790e-02)}
+& \specialcell{6.096139e+00$^4$ \\ (8.757972e-03)}
+& \specialcell{6.095238e+00$^6$ \\ (1.095503e-02)}
+& \specialcell{6.092517e+00$^9$ \\ (1.497562e-02)}
+& \specialcell{6.098353e+00$^3$ \\ (6.490524e-03)}
+& \cellcolor[gray]{0.5} \specialcell{6.099480e+00$^1$ \\ (6.622905e-03)}
+& \specialcell{6.092001e+00$^10$ \\ (1.469840e-02)}
+& \specialcell{6.095441e+00$^5$ \\ (1.130525e-02)}
+& \cellcolor[gray]{0.8} \specialcell{6.099086e+00$^2$ \\ (8.288653e-03)}
+& \specialcell{6.093512e+00$^8$ \\ (1.281603e-02)}
+\\ \cline{2-13}
+& 4
+& \specialcell{1.178600e+01$^4$ \\ (3.265391e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.179755e+01$^1$ \\ (2.634227e-02)}
+& \specialcell{1.177445e+01$^8$\# \\ (2.456536e-02)}
+& \specialcell{1.178054e+01$^7$ \\ (3.199813e-02)}
+& \specialcell{1.177071e+01$^10$\# \\ (3.736180e-02)}
+& \specialcell{1.178248e+01$^5$ \\ (3.421218e-02)}
+& \cellcolor[gray]{0.8} \specialcell{1.179441e+01$^2$ \\ (2.522119e-02)}
+& \specialcell{1.178726e+01$^3$ \\ (2.577630e-02)}
+& \specialcell{1.177138e+01$^9$\# \\ (2.896206e-02)}
+& \specialcell{1.178082e+01$^6$ \\ (2.385679e-02)}
+& \specialcell{1.175973e+01$^11$\# \\ (2.828513e-02)}
+\\ \cline{2-13}
+& 5
+& \specialcell{2.229889e+01$^3$ \\ (2.728513e-01)}
+& \specialcell{2.223060e+01$^8$ \\ (3.571073e-01)}
+& \cellcolor[gray]{0.8} \specialcell{2.230238e+01$^2$ \\ (3.321399e-01)}
+& \cellcolor[gray]{0.5} \specialcell{2.231559e+01$^1$ \\ (2.528900e-01)}
+& \specialcell{2.226241e+01$^5$ \\ (2.042909e-01)}
+& \specialcell{2.223522e+01$^7$ \\ (2.118587e-01)}
+& \specialcell{2.221464e+01$^9$ \\ (2.157381e-01)}
+& \specialcell{2.211985e+01$^10$\# \\ (2.109207e-01)}
+& \specialcell{2.227867e+01$^4$ \\ (2.845444e-01)}
+& \specialcell{2.211471e+01$^11$ \\ (2.054772e-01)}
+& \specialcell{2.225138e+01$^6$ \\ (2.982821e-01)}
+\\ \cline{2-13}
+& 6
+& \specialcell{4.122252e+01$^5$ \\ (6.466822e-01)}
+& \specialcell{4.098550e+01$^9$ \\ (5.696587e-01)}
+& \specialcell{4.116130e+01$^6$ \\ (9.459313e-01)}
+& \cellcolor[gray]{0.5} \specialcell{4.170548e+01$^1$ \\ (8.624416e-01)}
+& \specialcell{4.106363e+01$^8$ \\ (8.370749e-01)}
+& \specialcell{4.077777e+01$^11$\# \\ (8.222483e-01)}
+& \specialcell{4.143705e+01$^3$ \\ (7.192915e-01)}
+& \specialcell{4.111505e+01$^7$ \\ (1.173372e+00)}
+& \specialcell{4.138995e+01$^4$ \\ (8.319209e-01)}
+& \cellcolor[gray]{0.8} \specialcell{4.162162e+01$^2$ \\ (5.597289e-01)}
+& \specialcell{4.090378e+01$^10$\# \\ (9.194815e-01)}
+\\ \cline{2-13}
+& 7
+& \cellcolor[gray]{0.5} \specialcell{7.484465e+01$^1$ \\ (8.145419e+00)}
+& \cellcolor[gray]{0.8} \specialcell{7.454459e+01$^2$ \\ (5.899578e+00)}
+& \specialcell{7.263390e+01$^5$ \\ (6.714053e+00)}
+& \specialcell{6.815498e+01$^10$\# \\ (3.785083e+00)}
+& \specialcell{6.740301e+01$^11$\# \\ (7.097682e+00)}
+& \specialcell{7.272014e+01$^4$ \\ (3.434637e+00)}
+& \specialcell{6.840392e+01$^9$ \\ (6.362545e+00)}
+& \specialcell{6.968261e+01$^7$ \\ (6.570813e+00)}
+& \specialcell{7.349251e+01$^3$ \\ (4.092564e+00)}
+& \specialcell{6.912434e+01$^8$ \\ (7.882345e+00)}
+& \specialcell{7.075519e+01$^6$ \\ (6.216105e+00)}
+\\ \cline{2-13}
+\hline
+\hline
+\multirow{6}{*}{DTLZ6}
+& 2
+& \specialcell{3.210873e+00$^6$ \\ (3.162278e-07)}
+& \cellcolor[gray]{0.5} \specialcell{3.210874e+00$^1$ \\ (4.087923e-06)}
+& \specialcell{3.210873e+00$^7$ \\ (3.162278e-07)}
+& \specialcell{3.210873e+00$^8$ \\ (3.162278e-07)}
+& \specialcell{3.210873e+00$^3$ \\ (0.000000e+00)}
+& \specialcell{3.210873e+00$^4$ \\ (0.000000e+00)}
+& \specialcell{3.210873e+00$^10$\# \\ (4.216370e-07)}
+& \cellcolor[gray]{0.8} \specialcell{3.210873e+00$^2$ \\ (4.216370e-07)}
+& \specialcell{3.210873e+00$^11$\# \\ (4.216370e-07)}
+& \specialcell{3.210873e+00$^9$ \\ (3.162278e-07)}
+& \specialcell{3.210873e+00$^5$ \\ (4.714045e-07)}
+\\ \cline{2-13}
+& 3
+& \specialcell{6.093803e+00$^9$ \\ (1.098229e-02)}
+& \specialcell{6.096105e+00$^3$ \\ (8.646353e-03)}
+& \specialcell{6.095513e+00$^5$ \\ (1.065994e-02)}
+& \specialcell{6.095646e+00$^4$ \\ (1.435071e-02)}
+& \specialcell{6.091575e+00$^11$\# \\ (9.191258e-03)}
+& \specialcell{6.094885e+00$^7$ \\ (1.150432e-02)}
+& \specialcell{6.093729e+00$^10$ \\ (9.363576e-03)}
+& \specialcell{6.095295e+00$^6$ \\ (8.922124e-03)}
+& \cellcolor[gray]{0.8} \specialcell{6.098226e+00$^2$ \\ (8.451314e-03)}
+& \cellcolor[gray]{0.5} \specialcell{6.099873e+00$^1$ \\ (5.760253e-03)}
+& \specialcell{6.094692e+00$^8$ \\ (1.106127e-02)}
+\\ \cline{2-13}
+& 4
+& \specialcell{1.172410e+01$^11$\# \\ (4.243357e-02)}
+& \specialcell{1.175288e+01$^8$ \\ (8.195952e-02)}
+& \specialcell{1.177250e+01$^5$ \\ (5.400015e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.178520e+01$^1$ \\ (3.902633e-02)}
+& \cellcolor[gray]{0.8} \specialcell{1.178369e+01$^2$ \\ (4.310990e-02)}
+& \specialcell{1.173083e+01$^10$\# \\ (6.506839e-02)}
+& \specialcell{1.176773e+01$^6$ \\ (4.581058e-02)}
+& \specialcell{1.178055e+01$^3$ \\ (2.219012e-02)}
+& \specialcell{1.176380e+01$^7$ \\ (6.179389e-02)}
+& \specialcell{1.177920e+01$^4$ \\ (4.579270e-02)}
+& \specialcell{1.175201e+01$^9$ \\ (6.174946e-02)}
+\\ \cline{2-13}
+& 5
+& \specialcell{1.684667e+01$^10$ \\ (5.604618e+00)}
+& \specialcell{1.798910e+01$^5$ \\ (4.749485e+00)}
+& \specialcell{1.657659e+01$^11$ \\ (6.953000e+00)}
+& \specialcell{1.709009e+01$^8$ \\ (5.625064e+00)}
+& \specialcell{1.707373e+01$^9$ \\ (4.485154e+00)}
+& \specialcell{1.805268e+01$^4$ \\ (7.007024e+00)}
+& \specialcell{1.759192e+01$^7$ \\ (5.175123e+00)}
+& \cellcolor[gray]{0.5} \specialcell{1.907264e+01$^1$ \\ (4.007148e+00)}
+& \cellcolor[gray]{0.8} \specialcell{1.884392e+01$^2$ \\ (4.606230e+00)}
+& \specialcell{1.874259e+01$^3$ \\ (4.045303e+00)}
+& \specialcell{1.777656e+01$^6$ \\ (7.190061e+00)}
+\\ \cline{2-13}
+& 6
+& \specialcell{4.812429e+00$^11$\# \\ (1.321351e+01)}
+& \specialcell{6.758947e+00$^9$ \\ (1.415221e+01)}
+& \specialcell{8.827700e+00$^6$ \\ (1.461327e+01)}
+& \specialcell{8.575106e+00$^7$ \\ (1.440070e+01)}
+& \specialcell{9.173357e+00$^5$ \\ (1.457093e+01)}
+& \specialcell{5.736899e+00$^10$ \\ (1.133198e+01)}
+& \specialcell{7.067578e+00$^8$ \\ (1.229439e+01)}
+& \specialcell{9.402881e+00$^4$ \\ (1.465956e+01)}
+& \cellcolor[gray]{0.8} \specialcell{1.067412e+01$^2$ \\ (1.400029e+01)}
+& \cellcolor[gray]{0.5} \specialcell{1.216308e+01$^1$ \\ (1.373602e+01)}
+& \specialcell{9.866978e+00$^3$ \\ (1.035454e+01)}
+\\ \cline{2-13}
+& 7
+& \specialcell{5.266933e-01$^11$ \\ (6.574243e-01)}
+& \cellcolor[gray]{0.5} \specialcell{1.449566e+01$^1$ \\ (2.775940e+01)}
+& \specialcell{1.080372e+01$^4$ \\ (1.796579e+01)}
+& \specialcell{6.573483e+00$^5$ \\ (1.801582e+01)}
+& \specialcell{1.342126e+01$^3$ \\ (2.813596e+01)}
+& \specialcell{3.735989e+00$^8$ \\ (5.881050e+00)}
+& \specialcell{5.053850e+00$^7$ \\ (8.827618e+00)}
+& \specialcell{3.384778e+00$^9$ \\ (8.405297e+00)}
+& \specialcell{2.008263e+00$^10$ \\ (4.350345e+00)}
+& \specialcell{5.341272e+00$^6$ \\ (1.052760e+01)}
+& \cellcolor[gray]{0.8} \specialcell{1.448016e+01$^2$ \\ (1.893530e+01)}
+\\ \cline{2-13}
+\hline
+\hline
+\multirow{6}{*}{DTLZ7}
+& 2
+& \specialcell{1.772554e+01$^11$ \\ (4.516636e-05)}
+& \specialcell{1.772555e+01$^6$ \\ (1.251666e-05)}
+& \specialcell{1.772555e+01$^9$ \\ (2.108185e-05)}
+& \specialcell{1.772555e+01$^7$ \\ (1.636392e-05)}
+& \specialcell{1.772555e+01$^5$ \\ (1.349897e-05)}
+& \specialcell{1.772555e+01$^3$ \\ (2.321398e-05)}
+& \cellcolor[gray]{0.5} \specialcell{1.772556e+01$^1$ \\ (1.549193e-05)}
+& \specialcell{1.772555e+01$^4$ \\ (9.718253e-06)}
+& \cellcolor[gray]{0.8} \specialcell{1.772556e+01$^2$ \\ (2.250926e-05)}
+& \specialcell{1.772554e+01$^10$ \\ (3.126944e-05)}
+& \specialcell{1.772555e+01$^8$ \\ (2.250926e-05)}
+\\ \cline{2-13}
+& 3
+& \specialcell{1.626102e+01$^11$ \\ (1.851197e-01)}
+& \specialcell{1.629826e+01$^6$ \\ (8.731797e-02)}
+& \specialcell{1.628249e+01$^10$ \\ (1.278362e-01)}
+& \cellcolor[gray]{0.8} \specialcell{1.631554e+01$^2$ \\ (4.459365e-02)}
+& \specialcell{1.629642e+01$^7$ \\ (9.423551e-02)}
+& \specialcell{1.630760e+01$^4$ \\ (3.882302e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.632662e+01$^1$ \\ (2.318382e-02)}
+& \specialcell{1.628536e+01$^9$ \\ (1.314128e-01)}
+& \specialcell{1.628577e+01$^8$ \\ (9.747661e-02)}
+& \specialcell{1.630774e+01$^3$ \\ (4.321409e-02)}
+& \specialcell{1.630045e+01$^5$ \\ (5.383154e-02)}
+\\ \cline{2-13}
+& 4
+& \specialcell{1.466283e+01$^6$ \\ (1.298372e-01)}
+& \cellcolor[gray]{0.5} \specialcell{1.473385e+01$^1$ \\ (4.408195e-02)}
+& \specialcell{1.465812e+01$^7$\# \\ (6.628836e-02)}
+& \specialcell{1.469554e+01$^3$ \\ (6.459525e-02)}
+& \cellcolor[gray]{0.8} \specialcell{1.469940e+01$^2$ \\ (8.936850e-02)}
+& \specialcell{1.461281e+01$^11$\# \\ (1.599996e-01)}
+& \specialcell{1.465787e+01$^8$\# \\ (8.843302e-02)}
+& \specialcell{1.463544e+01$^10$\# \\ (1.248775e-01)}
+& \specialcell{1.468003e+01$^4$\# \\ (6.718344e-02)}
+& \specialcell{1.467421e+01$^5$\# \\ (8.057361e-02)}
+& \specialcell{1.464301e+01$^9$\# \\ (1.001155e-01)}
+\\ \cline{2-13}
+& 5
+& \specialcell{1.286379e+01$^7$ \\ (4.010418e-02)}
+& \specialcell{1.285206e+01$^11$ \\ (5.795122e-02)}
+& \specialcell{1.286730e+01$^5$ \\ (7.191387e-02)}
+& \specialcell{1.287038e+01$^4$ \\ (4.728058e-02)}
+& \specialcell{1.286696e+01$^6$ \\ (4.004131e-02)}
+& \cellcolor[gray]{0.8} \specialcell{1.288056e+01$^2$ \\ (6.213750e-02)}
+& \specialcell{1.285478e+01$^9$ \\ (6.081857e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.288090e+01$^1$ \\ (6.520971e-02)}
+& \specialcell{1.287243e+01$^3$ \\ (4.901276e-02)}
+& \specialcell{1.285442e+01$^10$ \\ (5.554019e-02)}
+& \specialcell{1.286378e+01$^8$ \\ (6.342079e-02)}
+\\ \cline{2-13}
+& 6
+& \cellcolor[gray]{0.8} \specialcell{1.085073e+01$^2$ \\ (4.961038e-02)}
+& \specialcell{1.082939e+01$^9$ \\ (4.211587e-02)}
+& \specialcell{1.084472e+01$^4$ \\ (8.062680e-02)}
+& \specialcell{1.084419e+01$^5$ \\ (6.202394e-02)}
+& \specialcell{1.083685e+01$^7$ \\ (5.610262e-02)}
+& \specialcell{1.080563e+01$^11$\# \\ (5.562963e-02)}
+& \specialcell{1.083057e+01$^8$ \\ (6.400432e-02)}
+& \specialcell{1.081218e+01$^10$\# \\ (7.157333e-02)}
+& \specialcell{1.085008e+01$^3$ \\ (7.752066e-02)}
+& \specialcell{1.084022e+01$^6$ \\ (7.519097e-02)}
+& \cellcolor[gray]{0.5} \specialcell{1.085844e+01$^1$ \\ (4.406229e-02)}
+\\ \cline{2-13}
+& 7
+& \specialcell{9.097442e+00$^7$ \\ (4.995332e-02)}
+& \cellcolor[gray]{0.5} \specialcell{9.112338e+00$^1$ \\ (4.793975e-02)}
+& \specialcell{9.110461e+00$^3$ \\ (6.527066e-02)}
+& \specialcell{9.108257e+00$^5$ \\ (5.649350e-02)}
+& \cellcolor[gray]{0.8} \specialcell{9.111371e+00$^2$ \\ (4.009754e-02)}
+& \specialcell{9.084248e+00$^9$ \\ (3.141377e-02)}
+& \specialcell{9.079768e+00$^10$ \\ (4.345464e-02)}
+& \specialcell{9.108949e+00$^4$ \\ (6.365353e-02)}
+& \specialcell{9.077459e+00$^11$ \\ (4.967429e-02)}
+& \specialcell{9.105358e+00$^6$ \\ (3.969750e-02)}
+& \specialcell{9.086813e+00$^8$ \\ (3.334379e-02)}
+\\ \cline{2-13}
+\hline
+\hline
+\hline
+\end{tabular}
+\end{table}
+
+\end{document}

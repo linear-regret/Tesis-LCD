@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.11)  26 JUL 2024 00:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.11)  5 AUG 2024 17:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -257,20 +257,20 @@ File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 ) (c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\hv.aux)
 \openout1 = `hv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
  (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count291
@@ -293,15 +293,15 @@ LaTeX Font Info:    ... okay on input line 18.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(298.75697pt, 1394.17894pt, 298.75699pt)
-* v-part:(T,H,B)=(153.64642pt, 896.25789pt, 230.4697pt)
-* \paperwidth=1991.6929pt
-* \paperheight=1280.37401pt
-* \textwidth=1394.17894pt
-* \textheight=896.25789pt
-* \oddsidemargin=226.48698pt
-* \evensidemargin=226.48698pt
-* \topmargin=44.37643pt
+* h-part:(L,W,R)=(277.41719pt, 1294.59474pt, 277.41719pt)
+* v-part:(T,H,B)=(256.0774pt, 1493.76315pt, 384.11613pt)
+* \paperwidth=1849.42912pt
+* \paperheight=2133.95668pt
+* \textwidth=1294.59474pt
+* \textheight=1493.76315pt
+* \oddsidemargin=205.1472pt
+* \evensidemargin=205.1472pt
+* \topmargin=146.8074pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -319,28 +319,29 @@ LaTeX Font Info:    ... okay on input line 18.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
 (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
  (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Warning: Float too large for page by 146.542pt on input line 594.
+Overfull \hbox (48.0571pt too wide) in paragraph at lines 22--595
+[][] 
+ []
 
 [1{C:/Users/fer_a/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\hv.aux) ) 
 Here is how much of TeX's memory you used:
  4014 strings out of 478337
  63140 string characters out of 2836666
- 637201 words of memory out of 3000000
+ 637079 words of memory out of 3000000
  22410 multiletter control sequences out of 15000+600000
  471266 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,17n,62p,431b,258s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,17n,62p,430b,258s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on "c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\hv.pdf" (1 page, 59584 bytes).
+Output written on "c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\hv.pdf" (1 page, 59572 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

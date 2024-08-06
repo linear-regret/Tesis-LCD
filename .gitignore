@@ -5,3 +5,11 @@ CD_plot
 CD_plots_imgs
 Assessment
 PFI-EMOA
+build
+tablasR
+Heatmaps
+0_EjerciciosconMOPs.ipynb
+imgs_pdf
+*.pdf
+output_logs
+tesis.todo

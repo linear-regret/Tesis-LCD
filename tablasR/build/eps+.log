@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.11)  25 JUL 2024 21:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.11)  5 AUG 2024 17:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -228,9 +228,31 @@ Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )) (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count286
-)) (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)) (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count287
+\Gm@cntv=\count288
+\c@Gm@tempcnt=\count289
+\Gm@bindingoffset=\dimen162
+\Gm@wd@mp=\dimen163
+\Gm@odd@mp=\dimen164
+\Gm@even@mp=\dimen165
+\Gm@layoutwidth=\dimen166
+\Gm@layoutheight=\dimen167
+\Gm@layouthoffset=\dimen168
+\Gm@layoutvoffset=\dimen169
+\Gm@dimlist=\toks25
+ (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count287
+\l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box100
 ) (c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\eps+.aux)
 \openout1 = `eps+.aux'.
@@ -251,38 +273,77 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
  (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen162
+\scratchcounter=\count291
+\scratchdimen=\dimen170
 \scratchbox=\box101
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen163
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks25
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen171
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks27
 )
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(277.41719pt, 1294.59474pt, 277.41719pt)
+* v-part:(T,H,B)=(256.0774pt, 1493.76315pt, 384.11613pt)
+* \paperwidth=1849.42912pt
+* \paperheight=2133.95668pt
+* \textwidth=1294.59474pt
+* \textheight=1493.76315pt
+* \oddsidemargin=205.1472pt
+* \evensidemargin=205.1472pt
+* \topmargin=146.8074pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
- (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
  (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{C:/Users/fer_a/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\eps+.aux) ) 
+)
+Overfull \hbox (48.0571pt too wide) in paragraph at lines 22--595
+[][] 
+ []
+
+[1{C:/Users/fer_a/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\eps+.aux) ) 
 Here is how much of TeX's memory you used:
- 3410 strings out of 478337
- 53230 string characters out of 2836666
- 361920 words of memory out of 3000000
- 21822 multiletter control sequences out of 15000+600000
+ 4014 strings out of 478337
+ 63164 string characters out of 2836666
+ 637085 words of memory out of 3000000
+ 22410 multiletter control sequences out of 15000+600000
  471266 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,17n,62p,289b,258s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on "c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\eps+.pdf" (1 page, 36165 bytes).
+ 55i,17n,62p,432b,258s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on "c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\eps+.pdf" (1 page, 60060 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

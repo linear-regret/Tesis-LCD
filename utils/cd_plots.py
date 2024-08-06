@@ -393,9 +393,9 @@ def draw_cd_diagram(
     if save:
         if not os.path.exists(path):
             os.makedirs(path)
-        print(f"Archivo guardado en {path}/{title}_cd_diagram.png")
+        print(f"Archivo guardado en {path}/{title}_cd_diagram.pdf")
 
-        plt.savefig(f"{path}/{title}_cd_diagram.png", bbox_inches="tight")
+        plt.savefig(f"{path}/{title}_cd_diagram.pdf", bbox_inches="tight")
     else:
         plt.show()
 

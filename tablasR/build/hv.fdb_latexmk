@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1721974169 "c:/Users/fer_a/Desktop/Tesis LCD- version final/Tesis-LCD/tablasR/hv.tex" "build/hv.pdf" "hv" 1721974172
+["pdflatex"] 1722900588 "c:/Users/fer_a/Desktop/Tesis LCD- version final/Tesis-LCD/tablasR/hv.tex" "build/hv.pdf" "hv" 1722900589
   "C:/Users/fer_a/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1721972839 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/fer_a/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1660257462 10330263 56fefceb31b3030da76096af6a16e46e ""
   "C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -48,9 +48,9 @@
   "C:/Users/fer_a/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1636710260 32262 2bb622a0aa56c4a7a5cbdfe9d122c15a ""
   "C:/Users/fer_a/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/fer_a/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
-  "build/hv.aux" 1721974172 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "c:/Users/fer_a/Desktop/Tesis LCD- version final/Tesis-LCD/tablasR/hv.tex" 1721974168 28299 f75370d5fcb7f6c690420bb793ff6058 ""
-  "hv.tex" 1721974168 28299 f75370d5fcb7f6c690420bb793ff6058 ""
+  "build/hv.aux" 1722900589 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "c:/Users/fer_a/Desktop/Tesis LCD- version final/Tesis-LCD/tablasR/hv.tex" 1722900331 28200 c6b2107814b4708740d889beceb4b8e0 ""
+  "hv.tex" 1722900331 28200 c6b2107814b4708740d889beceb4b8e0 ""
   (generated)
   "build/hv.aux"
   "build/hv.log"
