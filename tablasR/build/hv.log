@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.11)  5 AUG 2024 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.11)  24 OCT 2024 01:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -327,7 +327,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
  (C:\Users\fer_a\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (48.0571pt too wide) in paragraph at lines 22--595
+Overfull \hbox (45.20988pt too wide) in paragraph at lines 22--757
 [][] 
  []
 
@@ -335,13 +335,13 @@ Overfull \hbox (48.0571pt too wide) in paragraph at lines 22--595
 Here is how much of TeX's memory you used:
  4014 strings out of 478337
  63140 string characters out of 2836666
- 637079 words of memory out of 3000000
+ 716921 words of memory out of 3000000
  22410 multiletter control sequences out of 15000+600000
  471266 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,17n,62p,430b,258s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/fer_a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on "c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\hv.pdf" (1 page, 59572 bytes).
+Output written on "c:\Users\fer_a\Desktop\Tesis LCD- version final\Tesis-LCD\tablasR\build\hv.pdf" (1 page, 64203 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

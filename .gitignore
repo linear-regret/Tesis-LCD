@@ -1,4 +1,5 @@
 archivos_w_IGDp
+archivos_w_IGDp_20_runs
 archivos_w_R2
 archivos_w_R2_sld
 CD_plot
@@ -13,3 +14,6 @@ imgs_pdf
 *.pdf
 output_logs
 tesis.todo
+/archivos_EPS+_codigo_comentado
+/archivos_R2_codigo_comentado
+/New folder
